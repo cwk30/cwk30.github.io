@@ -3,7 +3,7 @@ layout: page
 title: Computing
 permalink: /new/
 ---
-######A brief history on my interactions with computers
+###### A brief history on my interactions with computers
 
 
 
