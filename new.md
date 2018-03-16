@@ -18,7 +18,10 @@ permalink: /new/
 
 
 ### Then I got myself a Graphing Calculator
-I got a graphing calculator - and realised that it doubled as a portable programming machine. I spent bus rides hunched over my GC, coding on the small screen: physics functions, math utilities, even text based games.
+I promptly realised that it doubled as a portable programming machine. I spent half my bus rides hunched over my GC, coding on the small screen: physics functions, math utilities, even text based games.
+
+![Hello World]({{ site.baseurl }}/images/helloworld.gif)
+                _My mother always wondered why I needed so many AAA batteries_
 
 
 ### Contact me
