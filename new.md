@@ -50,7 +50,7 @@ _A render of swept back wings, done on Solidworks._
 ### Young Rewired State @Google Singapore
 In my last year of study, I joined a team to participate in the Young Rewired State Hackathon, held at Google Singapore, as a designer. Though not part of the programming team, it was still an eye opening experience for me, especially after we [clinched the Best Use of Code award.](https://web.archive.org/web/20150922162216/http://hacks.youngrewiredstate.org/events/yrssingapore). The project is still live [here.](http://sup-sg.appspot.com/) The project was a simple idea, which was to let people add and search for events near them. 
 
-![Google]({{ site.baseurl }}/images/google.jpg)
+![Google]({{ site.baseurl }}/images/google.jpg)  
 _Google Singapore visitor's pass! I was absolutely thrilled to be there._
 
 
