@@ -19,8 +19,9 @@ Some information about me!
 * 2015-Current  Regular in the SAF, Signals Formation
 
 ### Hobbies  
-I like to cook, travel, and read. I try to cook at least once a week, and my friends serve as my critics.
-Traveling wise, I have been to Australia, Brunei, Indonesia, Malaysia, Taiwan, Thailand, Japan, and Vietnam thus far.
+I love to cook, travel, and read. I try to cook at least once a week, and my friends serve as my critics.  
+Traveling wise, I have been to Australia, Brunei, Indonesia, Malaysia, Taiwan, Thailand, Japan, and Vietnam thus far. I hope to travel to every country at least once!  
+Whenever I have some downtime, you will find me reading. It can be a good book, the latest news, or maybe even just random wikipedia pages!
 
 ### Contact me
 
