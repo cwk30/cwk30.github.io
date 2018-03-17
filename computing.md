@@ -63,10 +63,14 @@ After enlisting, my passion drove me to continue down this path in the Signals f
 
 The last was my favourite; the final practical examination had us fending of live attacks in a virtualized network environment.
 One of the attacks were as follows:  
-The first inkling of trouble was when the IDS issued an alert for suspicious web crawling activities on the web host servers. Initially, dismissing it as a false positive, we soon found our DNS server was shutting down abruptly. After restarting the server and tracing the logs, we found the culprit to be... the SQL server? A subsequent investigation on the SQL server found that it was tampered with via the web host server, and it was only then we realised that we were looking at a SQL injection. Such attacks kept us constantly on our toes, and I greatly valued the learning opportunity given to us.
+* The first inkling of trouble was when the IDS issued an alert for suspicious web crawling activities on the web host servers.
+* Initially dismissing it as a false positive, we soon found our DNS server was shutting down abruptly. 
+* After restarting the server and tracing the logs, we found the culprit to be... the SQL server? 
+* A subsequent investigation on the SQL server found that it was tampered with via the web host server, and it was only then we realised that we were looking at a SQL injection.  
+Such attacks kept us constantly on our toes, and I learnt a great deal out of it. And yes, it was very exciting too!
 
 ----
 **** 
 
 ### Future Thoughts
-The field of Information Systems is truly exciting, and I wish to have the chance to further my passion in this. My strong passion has led me on my knowledge pursuit, and in the future I wish to specialise in Cyber Security.
+The field of Information Systems is truly fascinating, and I wish to have the chance to further my passion in this. My strong passion has led me on my knowledge pursuit, and in the future I wish to specialise in Cyber Security.
