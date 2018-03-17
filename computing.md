@@ -32,9 +32,11 @@ permalink: /computing/
 I promptly realised that it doubled as a portable programming machine. I spent half my bus rides hunched over my GC, coding on the small screen: physics functions, math utilities, even text based games.
 
 ![Hello World]({{ site.baseurl }}/images/gc.gif)
-                _My mother always wondered why I needed so many AAA batteries_
+                _My mother always wondered why I needed so many AAA batteries_  
+
 ----
 **** 
+
 ## During my senior years <a id="longstory"></a>
 I was exposed to alot of things. I learnt the basics to C programming, and was also introduced to my first 
 Linux distro. Initially running Linux in a virtual environment, I went on to dual boot my laptop. However, one day, a critical failure happened of my hard disk, due to a highly unfortunate accident in which I tripped over my power cord... during the partitioning process on my machine when attempting to create a triboot. I then decided to install Linux as my main OS for a good half a year, until compatibility issues forced me to switch back to Windows.
