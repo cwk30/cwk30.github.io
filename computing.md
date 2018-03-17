@@ -10,8 +10,8 @@ permalink: /computing/
   * [I got a portable programming machine](#gc)
   * [I picked up C, Python, and killed my laptop, thus forcing me to pick up Linux too](#longstory)
   * [I 3D modelled something](#3d)
-  * [I won a prize in a coding competition in which I did not code] (#yrs)
-  * [I signed on and _really_ learnt how to use my computer] (#work)
+  * [I won a prize in a coding competition in which I did not code](#yrs)
+  * [I signed on and _really_ learnt how to use my computer](#work)
 
 ### It all started... <a id="bootloop"></a>
 
