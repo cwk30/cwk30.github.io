@@ -23,6 +23,16 @@ I promptly realised that it doubled as a portable programming machine. I spent h
 ![Hello World]({{ site.baseurl }}/images/helloworld.gif)
                 _My mother always wondered why I needed so many AAA batteries_
 
+### During my senior years
+I was exposed to alot of things. I learnt the basics to C programming, and was also introduced to my first linux distro. Initially running linux in a virtual environment, I went on to dual boot my laptop. Following a critical failure of my hard disk, I then decided to fully install linux as my main OS for a good half a year... until compatibility issies forced me to switch back to Windows.
+
+I went on to learn the basics of Python on my own accord, in an attempt to build my own "Search Engine". As expected, the result was a very slow and definitely not very comprehensive web crawler, but it did teach me the merits of Python.
+
+As part of my research work, I also picked up 3D modelling on Solidworks. Find out more about my project here.
+
+In my last year of study, I joined a team to participate in the Young Rewired State Hackathon, as a designer. Though not part of the programming team, it was still an eye opening experience for me, 
+
+
 
 ### Contact me
 
