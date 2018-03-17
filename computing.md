@@ -67,7 +67,7 @@ One of the attacks were as follows:
 * Initially dismissing it as a false positive, we soon found our DNS server was shutting down abruptly. 
 * After restarting the server and tracing the logs, we found the culprit to be... the SQL server? 
 * A subsequent investigation on the SQL server found that it was tampered with via the web host server, and it was only then we realised that we were looking at a SQL injection.  
-  
+
 Such attacks kept us constantly on our toes, and I learnt a great deal out of it. And yes, it was very exciting too!
 
 ----
