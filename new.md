@@ -6,6 +6,8 @@ permalink: /new/
 #### A brief history on my interactions with computers
 
   
+line break?  
+  
   
 ### It all started...
 
