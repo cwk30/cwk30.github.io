@@ -26,7 +26,7 @@ I promptly realised that it doubled as a portable programming machine. I spent h
 **** 
 ### During my senior years
 I was exposed to alot of things. I learnt the basics to C programming, and was also introduced to my first 
-Linux distro. Initially running Linux in a virtual environment, I went on to dual boot my laptop. Following a critical failure of my hard disk, I then decided to fully install linux as my main OS for a good half a year... until compatibility issies forced me to switch back to Windows.
+Linux distro. Initially running Linux in a virtual environment, I went on to dual boot my laptop. Following a critical failure of my hard disk, I then decided to fully install linux as my main OS for a good half a year... until compatibility issues forced me to switch back to Windows.
 
 I went on to learn the basics of Python on my own accord, in an attempt to build my own "Search Engine". As expected, the result was a very slow and definitely not very comprehensive web crawler, but it did teach me the merits of Python.
 
