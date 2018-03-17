@@ -45,7 +45,7 @@ _A render of swept back wings, done on Solidworks._
 ****  
 
 ### Young Rewired State @ Google Singapore
-In my last year of study, I joined a team to participate in the Young Rewired State Hackathon, held at Google Singapore, as a designer. Though not part of the programming team, it was still an eye opening experience for me, especially after we [clinched the Best Use of Code award.](https://web.archive.org/web/20150922162216/http://hacks.youngrewiredstate.org/events/yrssingapore). The project is still live [here.](http://sup-sg.appspot.com/) The project was a simple idea, which was to let people add and search for events near them. 
+In my last year of study, I joined a team to participate in the Young Rewired State Hackathon, held at Google Singapore, as a designer. Though not part of the programming team, it was still an eye opening experience for me, especially after we [clinched the Best Use of Code award.](https://web.archive.org/web/20150922162216/http://hacks.youngrewiredstate.org/events/yrssingapore) The project is still live [here.](http://sup-sg.appspot.com/) The project was a simple idea, which was to let people add and search for events near them. 
 
 ![Google]({{ site.baseurl }}/images/google.jpg)  
 _Google Singapore visitor's pass! I was absolutely thrilled to be there._
@@ -53,7 +53,8 @@ _Google Singapore visitor's pass! I was absolutely thrilled to be there._
 ----
 ****  
 ### Enlistment, and then signing on in the Signals formation
-After enlisting, my passion drove me to continue down this path in the Signals formation, as an Army regular. Already experienced in the setting up and running of complex networks, I joined my formation’s push for cyber defence, and was sent for a multitude of courses to attain the necessary skills:  
+After enlisting, my passion drove me to continue down this path in the Signals formation, as an Army regular. Already experienced in the setting up and running of complex networks, I joined my formation’s push for cyber defence, and was sent for a multitude of courses to attain the necessary skills, of which include:
+
 * Certified Ethical Hacking
 * Computer Hacking Forensics Investigator 
 * Cyber Security Analyst 
@@ -61,3 +62,6 @@ After enlisting, my passion drove me to continue down this path in the Signals f
 * Cyber Security Operations Specialist.  
 
 The last was my favourite; the final practical examination had us fending of live attacks in a virtualized network environment, and I relished every moment of it.
+
+### Future Thoughts
+It is my goal to establish myself as a leading expert in cybersecurity within the force, and help SAF develop the necessary capabilities in securing network infrastructures critical to our operations.
