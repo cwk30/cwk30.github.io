@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Computing
-permalink: /new/
+permalink: /computing/
 ---
 #### A brief history on my interactions with computers
 
