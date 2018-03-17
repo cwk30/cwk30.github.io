@@ -9,14 +9,14 @@ Some information about me!
 
 ### Education History
 
-* 2003-2008     Fuhua Primary School
-* 2009-2014     NUS High School of Math & Science
+* 2003-2008        Fuhua Primary School
+* 2009-2014        NUS High School of Math & Science
 
 ### Work History
 
-* 2013          Part time Sales Staff at PC Dreams @ Sim Lim Square 
-* 2014-2015     Part time Tuition Teacher at Haven Education
-* 2015-Current  Regular in the SAF, Signals Formation
+* 2013             Part time Sales Staff at PC Dreams @ Sim Lim Square 
+* 2014-2015        Part time Tuition Teacher at Haven Education
+* 2015-Current     Regular in the SAF, Signals Formation
 
 ### Hobbies  
 I love to cook, travel, and read. I try to cook at least once a week, and my friends serve as my critics.  
