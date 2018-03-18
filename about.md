@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi! My name is Chua Wee Kian, and my friends call me James. I am a proud alumni of NUS High School, class of 2014, and am currently serving in the SAF. I used to be a regular specialist in the SAF, but was offered the chance to crossover as an officer in 2017. Currently in OCS, I will commision on June 16, 2018, and hopefully will be going to further my studies this year too. 
+Hi! My name is Chua Wee Kian, and my friends call me James. I am a proud alumni of NUS High School, class of 2014, and am currently serving in the SAF, in the Signals formation. I used to be a regular specialist in the SAF, but was offered the chance to crossover as an officer in 2017. Currently in OCS, I will commision on June 16, 2018, and hopefully will be going to further my studies this year too. 
 
 I love to tinker, and would consider myself technologically adept. A gadget guy, I have much interest in smart wearables and I constantly find myself trawling the pages of Kickstarter, in search of new gadgets.
 
