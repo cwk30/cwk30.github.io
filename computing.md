@@ -15,8 +15,8 @@ permalink: /computing/
   
 ----
 ****  
-
-## It all started... <a id="bootloop"></a>
+<a id="bootloop"></a>
+## It all started... 
 
 ...all the way back in Year 1 (Sec 1), when I entered NUS High. A few of us thought it would be funny to add a shortcut to shutdown.exe into a computer’s startup folder as a joke, and watch the confusion that ensued on the next unsuspecting user. It was a mischievous prank, but memorable: high school marked the first time I had regular access to a computer, and it was where the seeds were sowed.
 
@@ -28,7 +28,8 @@ permalink: /computing/
   
 ----
 ****
-## Then I got myself a Graphing Calculator <a id="gc"></a>
+<a id="gc"></a>
+## Then I got myself a Graphing Calculator 
 I promptly realised that it doubled as a portable programming machine. I spent half my bus rides hunched over my GC, coding on the small screen: physics functions, math utilities, even text based games.
 
 ![Hello World]({{ site.baseurl }}/images/gc.gif)
@@ -36,18 +37,17 @@ I promptly realised that it doubled as a portable programming machine. I spent h
 
 ----
 **** 
-
-## During my senior years <a id="longstory"></a>
-I was exposed to alot of things. I learnt the basics to C programming, and was also introduced to my first 
-Linux distro. Initially running Linux in a virtual environment, I went on to dual boot my laptop. However, one day, a critical failure happened of my hard disk, due to a highly unfortunate accident in which I tripped over my power cord... during the partitioning process on my machine when attempting to create a triboot. I then decided to install Linux as my main OS for a good half a year, until compatibility issues forced me to switch back to Windows.
+<a id="longstory"></a>
+## During my senior years 
+I learnt the basics to C programming, and was also introduced to my first Linux distro. Initially running Linux in a virtual environment, I went on to dual boot my laptop. However, one day, a critical failure happened of my hard disk, due to a highly unfortunate accident in which I tripped over my power cord... during the partitioning process on my machine when attempting to create a triboot. I then decided to install Linux as my main OS for a good half a year, until compatibility issues forced me to switch back to Windows.
 
 I also went on to learn the basics of Python on my own accord, in an attempt to build my own "Search Engine". The result, however, was a very slow and definitely not very comprehensive web crawler, but it did teach me the merits of Python.
 
 ----
 ****  
-
-## 3D Modeling my research project <a id="3d"></a>
-As part of my research work, I also picked up 3D modelling on Solidworks. Find out more about my project here.
+<a id="3d"></a>
+## 3D Modeling my research project 
+As part of my research work, I also picked up 3D modelling on Solidworks. Find out more about my project [here]({{ site.baseurl }}/engineering).
 
 ![wingplate]({{ site.baseurl }}/images/Wingplate.JPG)  
 _A component's design and measurements, done on Solidworks._
@@ -56,8 +56,8 @@ _A render of swept back wings, done on Solidworks._
 
 ----
 ****  
-
-## Young Rewired State @ Google Singapore <a id="yrs"></a>
+<a id="yrs"></a>
+## Young Rewired State @ Google Singapore 
 In 2014, I joined a team to participate in the Young Rewired State Hackathon, held at Google Singapore, as a designer. Though not part of the programming team, it was still an eye opening experience for me, especially after we [clinched the Best Use of Code award.](https://web.archive.org/web/20150922162216/http://hacks.youngrewiredstate.org/events/yrssingapore) The project, a brainchild of ours, was to let people add and search for events near them, with the results displayed directly on a map. The project is still live [here.](http://sup-sg.appspot.com/) 
 
 ![Google]({{ site.baseurl }}/images/google.jpg)  
@@ -65,7 +65,8 @@ _Google Singapore visitor's pass! I was absolutely thrilled to be there._
 
 ----
 ****  
-## Enlistment, and then signing on in the Signals formation <a id="work"></a>
+<a id="work"></a>
+## Enlistment, and then signing on in the Signals formation 
 After enlisting, my passion drove me to continue down this path in the Signals formation, as an Army regular. I was trained in CCNA 1, Routing and Switching, and in the course of my work, has also set up and run various complex networks consisting of several servers with a sizable amount of clients. I went on to join my formation’s push for cyber defence, and was sent for a multitude of courses to attain the necessary skills, of which include:
 
 * Certified Ethical Hacking
