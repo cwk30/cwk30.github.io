@@ -39,7 +39,7 @@ But it gave us the opportunity to redesign the wing such that it could close eve
 
 Here, we are using a software to track the moving pixels to assess the flight path of our glider.
 
-![Flight Tracker]({{ site.baseurl }}/images/flight.jpg)
+![Flight Tracker]({{ site.baseurl }}/images/flight.png)
 
 6 months later, we were all done, and presented our project at the YDSP Research Congress.
 
