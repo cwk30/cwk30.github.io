@@ -5,6 +5,8 @@ permalink: /engineering/
 ---
 #### A photo journey of when I built a glider, crashed it, built a RC plane, crashed it too, then took it to Japan.
 
+
+
 ### What started it all  
 Back in 2012, I had the opportunity to joined the YDSP World of Science Aerodynamics programme. It was a course spread over several months, held at NUS Engineering Faculty. The course culminated with a visit and flight experience at Singapore Youth Flying Club, and I certainly enjoyed my time then!  
 
@@ -72,7 +74,10 @@ Following that, we went on to submit our projects to the Singapore science and E
 _Presenting our project at our booth._
 
 ![SSEF 2013]({{ site.baseurl }}/images/ssef2013me.jpg)  
-_Me, showing my good side. Photo: [eternalzphoenixphotography](https://eternalzphoenixphotography.wordpress.com/)_
+_Me, showing my good side. Photo: [eternalzphoenixphotography](https://eternalzphoenixphotography.wordpress.com/)_  
+
+----
+****  
 
 ### We were having so much fun, why stop?  
 We discussed with our research mentors at DSO, and 3 of us agreed to extend our project further. This time, we were going to build a full UAV. We discussed some potential designs:
@@ -163,6 +168,9 @@ The finale was when the school shortlisted my project to participate in the Japa
 _Group photo with our Japanese hosts._
 
 ![JSSF 2014]({{ site.baseurl }}/images/jssfpresenting.jpg)  
-_A light hearted sharing session of my project with other JSSF participants._
+_A light hearted sharing session of my project with other JSSF participants._  
+
+----
+****  
 
 My research journey was a long and exciting one, I would not trade it for any other. I am grateful that my school is supportive of such research efforts, and for letting us pursue our interests to such great lengths. 
