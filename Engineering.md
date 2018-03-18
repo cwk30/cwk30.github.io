@@ -31,6 +31,7 @@ We moved on from there to our first prototype with deployable wings. You can see
 
 ![Glider Folded]({{ site.baseurl }}/images/glider folded.jpg)  
 _First Protoype, wings folded._  
+
 ![First Glider]({{ site.baseurl }}/images/gliderdeployed.jpg)  
 _First Protoype, wings deployed._  
 
@@ -38,6 +39,7 @@ There was several setbacks initially, especially when our plane broke:
 
 ![Crash Landing]({{ site.baseurl }}/images/broke.gif)  
 _Ouch._  
+
 ![Broken Wing]({{ site.baseurl }}/images/broke.jpg)  
 _Back to the workshop..._  
 
@@ -45,6 +47,7 @@ But it gave us the opportunity to redesign the wing such that it could close eve
 
 ![Final Prototype Folded]({{ site.baseurl }}/images/newfolded.jpg)  
 _Final Prototype, wings folded. Note that the wing redesign allows for a smaller footprint._  
+
 ![Final Prototype Deployed]({{ site.baseurl }}/images/newdeployed.jpg)  
 _Final Prototype, wings deployed. Note the winglets at the end, to reduce wing tip vertices._  
 
