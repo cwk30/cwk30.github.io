@@ -126,7 +126,7 @@ _Final Prototype deployed._
 
 The maiden flight of our project:  
 
-![Maiden Flight]({{ site.baseurl }}/images/finaldeployed.jpg)  
+![Maiden Flight]({{ site.baseurl }}/images/itflew.gif)  
 _It flew... and promptly stalled. But it flew!_
 
 After multiple crash landings:
