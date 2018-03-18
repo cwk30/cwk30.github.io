@@ -64,3 +64,4 @@ _Some of those from the original aerodynamics course, at the YDSP congress._
 The poster can be viewed [here]({{ site.baseurl }}/images/Research@YDSP_Glider Project Poster.jpg).
 
 ### We were having so much fun, why stop?
+We discussed with out research mentors at DSO, and agreed to extend our project further. This time, we were going to build a full UAV.
