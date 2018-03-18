@@ -137,13 +137,15 @@ After multiple crash landings:
 ![Close up]({{ site.baseurl }}/images/closeup.jpg)  
 _Survivability: Check._  
 
-Once again, we submitted our project to SSEF 2014, and was shortlisted to participate once more!
+Once again, we submitted our project to SSEF 2014, and was shortlisted to participate once more! 
 
 ![SSEF 2014]({{ site.baseurl }}/images/ssef2014grp.jpg)  
 _Same same but different._
 
 ![SSEF 2014]({{ site.baseurl }}/images/ssef2014.jpg)  
 _School Photo for all participants! ft. our plane #photobomb_
+
+The poster can be viewed [here]({{ site.baseurl }}/images/Research@YDSP_UAV Project Poster.jpg).  
 
 Once more at the YDSP Congress:
 
@@ -163,4 +165,4 @@ _Group photo with our Japanese hosts._
 ![JSSF 2014]({{ site.baseurl }}/images/jssfpresenting.jpg)  
 _A light hearted sharing session of my project with other JSSF participants._
 
-My research journey was a long and exciting one, I would not trade it for any other! I am grateful that my school is supportive of such research efforts, and for letting us pursue our interests to such great lengths. 
+My research journey was a long and exciting one, I would not trade it for any other. I am grateful that my school is supportive of such research efforts, and for letting us pursue our interests to such great lengths. 
