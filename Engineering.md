@@ -117,7 +117,7 @@ _CNC at work. Note once again the rough cutting._
 Nope, still didn't work, and I broke at least 4 drill bits in this process. Left without a choice, we decided to outsource the production of the wingplates. In the meantime, I started work on the rest of the plane:
 
 ![Wings]({{ site.baseurl }}/images/wing.jpg)  
-_Marking out where to install servo motors on the wing. Note the reinforcing carbon fibre strip that runs through the wing._   
+_Marking out where to install servo motors, and where to cut ailerons on the wing. Note the reinforcing carbon fibre strip that runs through the wing._   
 
 After the wingplates were delivered, we assembled the plane together. Finally our baby was born!
 
