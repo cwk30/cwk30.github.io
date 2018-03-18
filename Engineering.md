@@ -64,5 +64,59 @@ _Some of those from the original aerodynamics course, at the YDSP congress._
 The poster can be viewed [here]({{ site.baseurl }}/images/Research@YDSP_Glider Project Poster.jpg).  
 
 ### We were having so much fun, why stop?  
-We discussed with out research mentors at DSO, and agreed to extend our project further. This time, we were going to build a full UAV.  
-I first started with
+We discussed with out research mentors at DSO, and 3 of us agreed to extend our project further. This time, we were going to build a full UAV. We discussed some potential designs:
+
+![sketches]({{ site.baseurl }}/images/sketches.jpg)  
+_Whiteboard sketches._ 
+
+I then started with some 3D modelling. Initially, I tried out Wings 3D.  
+
+![3D Model]({{ site.baseurl }}/images/3ddeployed.jpg)  
+_Wings 3D model, wings deployed._  
+
+![3D Model]({{ site.baseurl }}/images/3dbreak.jpg)  
+_Wings 3D model, disassembled._  
+
+![3D Model]({{ site.baseurl }}/images/3dfolded.jpg)  
+_Wings 3D model, fully collapsed._  
+
+The new model had a new hinge design, a pair of aluminium plates to guide the wings to fold back. The previous design was simply too fragile, and unable to handle the stress from rough landings. The new design also allows for the wings to be completely folded, parallel to the fuselage.  
+
+I then moved to work on Solidworks, to further finalise the dimensions of my hinge design.  
+
+![Solidworks Model]({{ site.baseurl }}/images/wingplate.jpg)  
+_Wing plate dimensions, solidworks model._  
+
+![Solidworks Model]({{ site.baseurl }}/images/solidworks.jpg)  
+_Wings folded, Solidworks model._  
+
+![Solidworks Model]({{ site.baseurl }}/images/wingplate.gif)  
+_Wing mechanism in action, Solidworks model._  
+
+I first tried to machine those plates myself, using a Dremel drill and metal plates bought at a local hardware store.
+
+![Dremel Cut]({{ site.baseurl }}/images/handcut.jpg)  
+_Balancing the wingplate on the proposed fuselage. Note the rough cutting._
+
+The cut was simply too rough, and unusable for our purposes. Undeterred, I went on to try using a CNC machine to cut the plate.
+
+![CNC Cut]({{ site.baseurl }}/images/CNC.jpg)  
+_CNC at work. Note once again the rough cutting._
+
+Nope, still didn't work, and I broke at least 4 drill bits in this process. Left without a choice, we decided to outsource the production of the wingplates. In the meantime, I started work on the rest of the plane:
+
+![Wings]({{ site.baseurl }}/images/wing.jpg)  
+_Marking out where to install servo motors on the wing. Note the reinforcing carbon fibre strip that runs through the wing._   
+
+After the wingplates were delivered, we assembled the plane together. Finally our baby was born!
+
+![Final Prototype Folded]({{ site.baseurl }}/images/finalfolded.jpg)  
+_Final Prototype collapsed._
+
+![Final Prototype deployed]({{ site.baseurl }}/images/finaldeployed.jpg)  
+_Final Prototype deployed._
+
+The maiden flight of our project:  
+
+![Maiden Flight]({{ site.baseurl }}/images/finaldeployed.jpg)  
+_Final Prototype deployed._
