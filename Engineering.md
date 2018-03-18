@@ -43,7 +43,7 @@ Here, we are using a software to track the moving pixels to assess the flight pa
 
 6 months later, we were all done, and presented our project at the YDSP Research Congress.
 
-![Team Photo]({{ site.baseurl }}/images/teamphoto.jpg)
+![Team Photo]({{ site.baseurl }}/images/team photo.jpg)
 _The clothes hangar was there to help hang our glider on the wall_
 
 ![Class Reunion]({{ site.baseurl }}/images/class reunion.jpg)
