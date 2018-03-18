@@ -142,7 +142,7 @@ The poster can be viewed [here]({{ site.baseurl }}/images/Research@YDSP_UAV Proj
 
 
 ![SSEF 2014]({{ site.baseurl }}/images/ssef2014grp.jpg)  
-_Same same but different._
+_Same same but different. My teammate is holding on to the battered remains of the first fuselage._
 
 ![SSEF 2014]({{ site.baseurl }}/images/ssef2014.jpg)  
 _School Photo for all participants! ft. our plane #photobomb_
