@@ -69,10 +69,10 @@ Following that, we went on to submit our projects to the Singapore science and E
 _Presenting our project at our booth._
 
 ![SSEF 2013]({{ site.baseurl }}/images/ssef2013me.jpg)  
-_Myself, showing my good side. Photo: _
+_Me, showing my good side. Photo: [eternalzphoenixphotography](https://eternalzphoenixphotography.wordpress.com/)_
 
 ### We were having so much fun, why stop?  
-We discussed with out research mentors at DSO, and 3 of us agreed to extend our project further. This time, we were going to build a full UAV. We discussed some potential designs:
+We discussed with our research mentors at DSO, and 3 of us agreed to extend our project further. This time, we were going to build a full UAV. We discussed some potential designs:
 
 ![sketches]({{ site.baseurl }}/images/sketches.jpg)  
 _Whiteboard sketches._ 
@@ -134,3 +134,30 @@ After multiple crash landings:
 ![Close up]({{ site.baseurl }}/images/closeup.jpg)  
 _Survivability: Check._  
 
+Once again, we submitted our project to SSEF 2014, and was shortlisted to participate once more!
+
+![SSEF 2014]({{ site.baseurl }}/images/ssef2014grp.jpg)  
+_Same same but different._
+
+![SSEF 2014]({{ site.baseurl }}/images/ssef2014.jpg)  
+_School Photo for all participants! ft. our plane #photobomb_
+
+Once more at the YDSP Congress:
+
+![YDSP Congress 2014]({{ site.baseurl }}/images/ydspcongress2014.jpg)  
+_A photo with our research mentor, Mr Jonathan Yong!_
+
+A few months later, I participated at West Zone Centre of Excellence for Science and Technology (WZCOE) Students’ Science Symposium 2014, and presented my project. To my surprise, our project [won the Popularity Award](http://www.nushigh.edu.sg/about-us/achievements/2014/academic-competitions/nus-high-school-wins-popularity-award-at-the-west-zone-centre-of-excellence-for-science-and-technology-wzcoe-students-science-symposium-2014)! My enthusiasm must have been really infectious then.
+
+![WZCOE 2014]({{ site.baseurl }}/images/popular.jpg)  
+_My team mates were absent that day due to other engagements, thus the lonely me._
+
+The finale was when the school shortlisted my project to participate in the Japan Super Science Fair 2014, held at Ritsumeikan High School! It was my first time flying out of Singapore, and also my first trip to Japan. It was indeed a memorable experience, and it was from there that I grew to love travelling. The science fair featured research projects from all over the world, and I was able to interact with people from different countries. Certainly a unique experience!
+
+![JSSF 2014]({{ site.baseurl }}/images/jssf.jpg)  
+_Group photo with our Japanese hosts._
+
+![JSSF 2014]({{ site.baseurl }}/images/jssfpresenting.jpg)  
+_A light hearted sharing session of my project with other JSSF participants._
+
+My research journey was a long and exciting one, I would not trade it for any other! I am grateful that my school is supportive of such research efforts, and for letting us pursue our interests to such great lengths. 
