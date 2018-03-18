@@ -10,7 +10,7 @@ Back in 2012, I had the opportunity to joined the YDSP World of Science Aerodyna
 
 
 ![Class Photo]({{ site.baseurl }}/images/class.jpg)
-######caption
+###### caption
 
 Near the end of the course, we were asked if anyone would be interested in doing a research project under the Research@YDSP programme with DSO, and I jumped at the chance. Together with 3 other group members, we embarked on this journey where we researched on constructing the most optimal glider with collapsible wings.
 
