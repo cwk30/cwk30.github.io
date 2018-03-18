@@ -138,14 +138,14 @@ After multiple crash landings:
 _Survivability: Check._  
 
 Once again, we submitted our project to SSEF 2014, and was shortlisted to participate once more! 
+The poster can be viewed [here]({{ site.baseurl }}/images/Research@YDSP_UAV Project Poster.jpg).  
+
 
 ![SSEF 2014]({{ site.baseurl }}/images/ssef2014grp.jpg)  
 _Same same but different._
 
 ![SSEF 2014]({{ site.baseurl }}/images/ssef2014.jpg)  
 _School Photo for all participants! ft. our plane #photobomb_
-
-The poster can be viewed [here]({{ site.baseurl }}/images/Research@YDSP_UAV Project Poster.jpg).  
 
 Once more at the YDSP Congress:
 
