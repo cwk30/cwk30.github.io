@@ -63,6 +63,14 @@ _Some of those from the original aerodynamics course, at the YDSP congress._
 
 The poster can be viewed [here]({{ site.baseurl }}/images/Research@YDSP_Glider Project Poster.jpg).  
 
+Following that, we went on to submit our projects to the Singapore science and Engineering Fair, and was shortlisted to participate! 
+
+![SSEF 2013]({{ site.baseurl }}/images/ssef2013.jpg)  
+_Presenting our project at our booth._
+
+![SSEF 2013]({{ site.baseurl }}/images/ssef2013me.jpg)  
+_Myself, showing my good side. Photo: _
+
 ### We were having so much fun, why stop?  
 We discussed with out research mentors at DSO, and 3 of us agreed to extend our project further. This time, we were going to build a full UAV. We discussed some potential designs:
 
@@ -119,4 +127,10 @@ _Final Prototype deployed._
 The maiden flight of our project:  
 
 ![Maiden Flight]({{ site.baseurl }}/images/finaldeployed.jpg)  
-_Final Prototype deployed._
+_It flew... and promptly stalled. But it flew!_
+
+After multiple crash landings:
+
+![Close up]({{ site.baseurl }}/images/closeup.jpg)  
+_Survivability: Check._  
+
