@@ -21,7 +21,10 @@ permalink: /computing/
 ...all the way back in Year 1 (Sec 1), when I entered NUS High. A few of us thought it would be funny to add a shortcut to shutdown.exe into a computer’s startup folder as a joke, and watch the confusion that ensued on the next unsuspecting user. It was a mischievous prank, but memorable: high school marked the first time I had regular access to a computer, and it was where the seeds were sowed.
 
 ![Crime Scene Re-enactment]({{ site.baseurl }}/images/crime.gif)
-                _Crime Scene Re-enactment_
+<div style="text-align:center;">
+    <em>Crime Scene Re-enactment.</em>
+</div>    
+<br>
 
 
   
@@ -33,7 +36,10 @@ permalink: /computing/
 I promptly realised that it doubled as a portable programming machine. I spent half my bus rides hunched over my GC, coding on the small screen: physics functions, math utilities, even text based games.
 
 ![Hello World]({{ site.baseurl }}/images/gc.gif)
-                _My mother always wondered why I needed so many AAA batteries_  
+<div style="text-align:center;">
+    <em>My mother always wondered why I needed so many AAA batteries.</em>
+</div>    
+<br> 
 
 ----
 **** 
@@ -50,9 +56,13 @@ I also went on to learn the basics of Python on my own accord, in an attempt to 
 As part of my research work, I also picked up 3D modelling on Solidworks. Find out more about my project [here]({{ site.baseurl }}/engineering).
 
 ![wingplate]({{ site.baseurl }}/images/Wingplate.JPG)  
-_A component's design and measurements, done on Solidworks._
+<div style="text-align:center;">
+    <em>A component's design and measurements, done on Solidworks._
 ![wingplate movement]({{ site.baseurl }}/images/wingplate.gif)  
-_A render of swept back wings, done on Solidworks._
+<div style="text-align:center;">
+    <em>A render of swept back wings, done on Solidworks.</em>
+</div>    
+<br> 
 
 ----
 ****  
@@ -61,7 +71,10 @@ _A render of swept back wings, done on Solidworks._
 In 2014, I joined a team to participate in the Young Rewired State Hackathon, held at Google Singapore, as a designer. Though not part of the programming team, it was still an eye opening experience for me, especially after we [clinched the Best Use of Code award.](https://web.archive.org/web/20150922162216/http://hacks.youngrewiredstate.org/events/yrssingapore) The project, a brainchild of ours, was to let people add and search for events near them, with the results displayed directly on a map. The project is still live [here.](http://sup-sg.appspot.com/) 
 
 ![Google]({{ site.baseurl }}/images/google.jpg)  
-_Google Singapore visitor's pass! I was absolutely thrilled to be there._
+<div style="text-align:center;">
+    <em>Google Singapore visitor's pass! I was absolutely thrilled to be there.</em>
+</div>    
+<br> 
 
 ----
 ****  
