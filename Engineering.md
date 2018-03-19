@@ -10,9 +10,10 @@ permalink: /engineering/
 ### What started it all  
 Back in 2012, I had the opportunity to joined the YDSP World of Science Aerodynamics programme. It was a course spread over several months, held at NUS Engineering Faculty. The course culminated with a visit and flight experience at Singapore Youth Flying Club, and I certainly enjoyed my time then!  
 
-
-![Class Photo]({{ site.baseurl }}/images/class.jpg)  
-_Class Photo at SYFC._  
+<div style="text-align:center;">
+    <img src="/images/class.jpg" alt="Class Photo" style="display:block;margin:0 auto"/>
+    <em>Class Photo at SYFC.</em>
+</div> 
 
 ![Flying]({{ site.baseurl }}/images/flightexp.jpg)  
 _Sitting in a Diamond DA40, waiting to takeoff._  
@@ -26,7 +27,7 @@ _The first of many to come._
 
 The key thing in this project was the design of the closing/opening mechanism. We drew inspiration from a very common item found in most homes: Windows. Most of us had windows that can be opened or closed, and we decided to emulate its hinge design:  
 
-![Hinge]({{ site.baseurl }}/images/window.png)  
+<img src="/images/window.png" alt="Hinge" style="display:block;margin:0 auto;">
 _A typical window hinge._  
 
 We moved on from there to our first prototype with deployable wings. You can see the carbon fibre rods that formed the skeleton of our hinge mechanism here:  
@@ -39,7 +40,7 @@ _First Protoype, wings deployed._
 
 There was several setbacks initially, especially when our plane broke:  
 
-![Crash Landing]({{ site.baseurl }}/images/broke.gif)  
+<img src="/images/broke.gif" alt="Crash Landing" style="display:block;margin:0 auto;">
 _Ouch._  
 
 ![Broken Wing]({{ site.baseurl }}/images/broke.jpg)  
@@ -55,7 +56,7 @@ _Final Prototype, wings deployed. Note the winglets at the end, to reduce wing t
 
 Here, we are using a software to track the moving pixels to assess the flight path of our glider.  
 
-![Flight Tracker]({{ site.baseurl }}/images/flight.png)  
+<img src="/images/flight.png" alt="Flight Tracker" style="display:block;margin:0 auto;">
 _You can see the glider in its parabolic path behind._  
 
 6 months later, we were all done, and presented our project at the YDSP Research Congress.  
@@ -106,7 +107,7 @@ _Wing plate dimensions, solidworks model._
 ![Solidworks Model]({{ site.baseurl }}/images/solidworks.jpg)  
 _Wings folded, Solidworks model._  
 
-![Solidworks Model]({{ site.baseurl }}/images/wingplate.gif)  
+<img src="/images/wingplate.gif" alt="Solidworks Model" style="display:block;margin:0 auto;">
 _Wing mechanism in action, Solidworks model._  
 
 I first tried to machine those plates myself, using a Dremel drill and metal plates bought at a local hardware store.
@@ -159,7 +160,7 @@ _A photo with our research mentor, Mr Jonathan Yong!_
 
 A few months later, I participated at West Zone Centre of Excellence for Science and Technology (WZCOE) Students’ Science Symposium 2014, and presented my project. To my surprise, our project [won the Popularity Award](http://www.nushigh.edu.sg/about-us/achievements/2014/academic-competitions/nus-high-school-wins-popularity-award-at-the-west-zone-centre-of-excellence-for-science-and-technology-wzcoe-students-science-symposium-2014)! My enthusiasm must have been really infectious then.
 
-![WZCOE 2014]({{ site.baseurl }}/images/popular.jpg)  
+<img src="/images/popular.jpg" alt="WZCOE 2014" style="display:block;margin:0 auto;">  
 _My team mates were absent that day due to other engagements, thus the lonely me._
 
 The finale was when the school shortlisted my project to participate in the Japan Super Science Fair 2014, held at Ritsumeikan High School! It was my first time flying out of Singapore, and also my first trip to Japan. It was indeed a memorable experience, and it was from there that I grew to love travelling. The science fair featured research projects from all over the world, and I was able to interact with people from different countries. Certainly a unique experience!
