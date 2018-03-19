@@ -5,7 +5,8 @@ permalink: /engineering/
 ---
 #### A photo journey of when I built a glider, crashed it, built a RC plane, crashed it too, then took it to Japan.
 
-
+<br>
+<br>
 
 ### What started it all  
 Back in 2012, I had the opportunity to joined the YDSP World of Science Aerodynamics programme. It was a course spread over several months, held at NUS Engineering Faculty. The course culminated with a visit and flight experience at Singapore Youth Flying Club, and I certainly enjoyed my time then!  
@@ -14,11 +15,13 @@ Back in 2012, I had the opportunity to joined the YDSP World of Science Aerodyna
     <img src="/images/class.jpg" alt="Class Photo" style="display:block;margin:0 auto"/>
     <em>Class Photo at SYFC.</em>
 </div>  
+<br>
 
 <div style="text-align:center;">
     <img src="/images/flightexp.jpg" alt="Flying" style="display:block;margin:0 auto"/>
     <em>Sitting in a Diamond DA40, waiting to takeoff.</em>
 </div>   
+<br>
 
 Near the end of the course, we were asked if anyone would be interested in doing a research project under the Research@YDSP programme with DSO, and I jumped at the chance. Together with 3 other group members, we embarked on this journey where we researched on constructing the most optimal glider with collapsible wings.  
 
@@ -29,6 +32,7 @@ Our very first glider was a simple one, to understand how gliders work. This was
     <img src="/images/firstglider.jpg" alt="First Glider" style="display:block;margin:0 auto"/>
     <em>The first of many to come.</em>
 </div>   
+<br>
 
 The key thing in this project was the design of the closing/opening mechanism. We drew inspiration from a very common item found in most homes: Windows. Most of us had windows that can be opened or closed, and we decided to emulate its hinge design:  
 
@@ -36,6 +40,7 @@ The key thing in this project was the design of the closing/opening mechanism. W
     <img src="/images/window.png" alt="Hinge" style="display:block;margin:0 auto;">
     <em>A typical window hinge.</em>  
 </div>  
+<br>
 
 We moved on from there to our first prototype with deployable wings. You can see the carbon fibre rods that formed the skeleton of our hinge mechanism here:  
 
@@ -43,12 +48,14 @@ We moved on from there to our first prototype with deployable wings. You can see
     <img src="/images/glider folded.jpg" alt="Glider Folded" style="display:block;margin:0 auto;">
     <em>First Protoype, wings folded.</em>  
 </div>  
-  
+  <br>
+
     
 <div style="text-align:center;">
     <img src="/images/gliderdeployed.jpg" alt="Glider Deployed" style="display:block;margin:0 auto;">
     <em>First Protoype, wings deployed.</em>  
 </div>  
+<br>
 
 There was several setbacks initially, especially when our plane broke:  
 
@@ -56,11 +63,13 @@ There was several setbacks initially, especially when our plane broke:
 <div style="text-align:center;">
     <em>Ouch.</em> 
 </div>
+<br>
 
 ![Broken Wing]({{ site.baseurl }}/images/broke.jpg)  
 <div style="text-align:center;">
     <em>Back to the workshop...</em>
 </div>    
+<br>
 
 But it gave us the opportunity to redesign the wing such that it could close even further:  
 
@@ -68,11 +77,13 @@ But it gave us the opportunity to redesign the wing such that it could close eve
 <div style="text-align:center;">
     <em>Final Prototype, wings folded. Note that the wing redesign allows for a smaller footprint.</em>
 </div>    
+<br>
 
 ![Final Prototype Deployed]({{ site.baseurl }}/images/newdeployed.jpg)  
 <div style="text-align:center;">
     <em>Final Prototype, wings deployed. Note the winglets at the end, to reduce wing tip vertices.</em>
 </div>   
+<br>
 
 Here, we are using a software to track the moving pixels to assess the flight path of our glider.  
 
@@ -80,6 +91,7 @@ Here, we are using a software to track the moving pixels to assess the flight pa
 <div style="text-align:center;">
     <em>You can see the glider in its parabolic path behind.</em>
 </div>    
+<br>
 
 6 months later, we were all done, and presented our project at the YDSP Research Congress.  
 
@@ -87,6 +99,7 @@ Here, we are using a software to track the moving pixels to assess the flight pa
 <div style="text-align:center;">
     <em>The clothes hangar was there to help hang our glider on the wall.</em>
 </div>    
+<br>
 
 ![Class Reunion]({{ site.baseurl }}/images/class reunion.jpg)  
 <div style="text-align:center;">
@@ -101,11 +114,13 @@ Following that, we went on to submit our projects to the Singapore Science and E
 <div style="text-align:center;">
     <em>Presenting our project at our booth.</em>
 </div>  
+<br>
 
 ![SSEF 2013]({{ site.baseurl }}/images/ssef2013me.jpg)  
 <div style="text-align:center;">
     <em>Me, showing my good side. Photo: [eternalzphoenixphotography](https://eternalzphoenixphotography.wordpress.com/)</em>
 </div>    
+<br>
 
 ----
 ****  
@@ -117,6 +132,7 @@ We discussed with our research mentors at DSO, and 3 of us agreed to extend our 
 <div style="text-align:center;">
     <em>Whiteboard sketches.</em>
 </div>   
+<br>
 
 I then started with some 3D modelling. Initially, I tried out Wings 3D.  
 
@@ -124,16 +140,19 @@ I then started with some 3D modelling. Initially, I tried out Wings 3D.
 <div style="text-align:center;">
     <em>Wings 3D model, wings deployed.</em>
 </div>    
+<br>
 
 ![3D Model]({{ site.baseurl }}/images/3dbreak.jpg)  
 <div style="text-align:center;">
     <em>Wings 3D model, disassembled.</em>
 </div>    
+<br>
 
 ![3D Model]({{ site.baseurl }}/images/3dfolded.jpg)  
 <div style="text-align:center;">
     <em>Wings 3D model, fully collapsed.</em>
 </div>    
+<br>
 
 The new model had a new hinge design, a pair of aluminium plates to guide the wings to fold back. The previous design was simply too fragile, and unable to handle the stress from rough landings. The new design also allows for the wings to be completely folded, parallel to the fuselage.  
 
@@ -143,16 +162,19 @@ I then moved to work on Solidworks, to further finalise the dimensions of my hin
 <div style="text-align:center;">
     <em>Wing plate dimensions, solidworks model.</em>
 </div>    
+<br>
 
 ![Solidworks Model]({{ site.baseurl }}/images/solidworks.jpg)  
 <div style="text-align:center;">
     <em>Wings folded, Solidworks model.</em>
 </div>    
+<br>
 
 <img src="/images/wingplate.gif" alt="Solidworks Model" style="display:block;margin:0 auto;">
 <div style="text-align:center;">
     <em>Wing mechanism in action, Solidworks model.</em>
 </div>   
+<br>
 
 I first tried to machine those plates myself, using a Dremel drill and metal plates bought at a local hardware store.
 
@@ -160,6 +182,7 @@ I first tried to machine those plates myself, using a Dremel drill and metal pla
 <div style="text-align:center;">
     <em>Balancing the wingplate on the proposed fuselage. Note the rough cutting.</em>
 </div>  
+<br>
 
 The cut was simply too rough, and unusable for our purposes. Undeterred, I went on to try using a CNC machine to cut the plate.
 
@@ -167,6 +190,7 @@ The cut was simply too rough, and unusable for our purposes. Undeterred, I went 
 <div style="text-align:center;">
     <em>CNC at work. Note once again the rough cutting.</em>
 </div>  
+<br>
 
 Nope, still didn't work, and I broke at least 4 drill bits in this process. Left without a choice, we decided to outsource the production of the wingplates. In the meantime, I started work on the rest of the plane:
 
@@ -174,6 +198,7 @@ Nope, still didn't work, and I broke at least 4 drill bits in this process. Left
 <div style="text-align:center;">
     <em>Marking out where to install servo motors, and where to cut ailerons on the wing. Note the reinforcing carbon fibre strip that runs through the wing.</em>
 </div>     
+<br>
 
 After the wingplates were delivered, we assembled the plane together. Finally our baby was born!
 
@@ -181,11 +206,13 @@ After the wingplates were delivered, we assembled the plane together. Finally ou
 <div style="text-align:center;">
     <em>Final Prototype collapsed.</em>
 </div>  
+<br>
 
 ![Final Prototype deployed]({{ site.baseurl }}/images/finaldeployed.jpg)  
 <div style="text-align:center;">
     <em>Final Prototype deployed.</em>
 </div>  
+<br>
 
 The maiden flight of our project:  
 
@@ -193,6 +220,7 @@ The maiden flight of our project:
 <div style="text-align:center;">
     <em>It flew... and promptly stalled. But it flew!</em>
 </div>  
+<br>
 
 After multiple crash landings:
 
@@ -200,6 +228,7 @@ After multiple crash landings:
 <div style="text-align:center;">
     <em>Survivability: Check.</em>
 </div>    
+<br>
 
 Once again, we submitted our project to SSEF 2014, and was shortlisted to participate once more! 
 The poster can be viewed [here]({{ site.baseurl }}/images/Research@YDSP_UAV Project Poster.jpg).  
@@ -209,11 +238,13 @@ The poster can be viewed [here]({{ site.baseurl }}/images/Research@YDSP_UAV Proj
 <div style="text-align:center;">
     <em>Same same but different. My teammate is holding on to the battered remains of the first fuselage.</em>
 </div>  
+<br>
 
 ![SSEF 2014]({{ site.baseurl }}/images/ssef2014.jpg)  
 <div style="text-align:center;">
     <em>School Photo for all participants! ft. our plane #photobomb</em>
 </div>  
+<br>
 
 Once more at the YDSP Congress:
 
@@ -221,6 +252,7 @@ Once more at the YDSP Congress:
 <div style="text-align:center;">
     <em>A photo with our research mentor, Mr Jonathan Yong!</em>
 </div>  
+<br>
 
 A few months later, I participated at West Zone Centre of Excellence for Science and Technology (WZCOE) Students’ Science Symposium 2014, and presented my project. To my surprise, our project [won the Popularity Award](http://www.nushigh.edu.sg/about-us/achievements/2014/academic-competitions/nus-high-school-wins-popularity-award-at-the-west-zone-centre-of-excellence-for-science-and-technology-wzcoe-students-science-symposium-2014)! My enthusiasm must have been really infectious then.
 
@@ -228,6 +260,7 @@ A few months later, I participated at West Zone Centre of Excellence for Science
 <div style="text-align:center;">
     <em>My team mates were absent that day due to other engagements, thus the lonely me.</em>
 </div>  
+<br>
 
 The finale was when the school shortlisted my project to participate in the Japan Super Science Fair 2014, held at Ritsumeikan High School! It was my first time flying out of Singapore, and also my first trip to Japan. It was indeed a memorable experience, and it was from there that I grew to love travelling. The science fair featured research projects from all over the world, and I was able to interact with people from different countries. Certainly a unique experience!
 
@@ -235,11 +268,13 @@ The finale was when the school shortlisted my project to participate in the Japa
 <div style="text-align:center;">
     <em>Group photo with our Japanese hosts.</em>
 </div>  
+<br>
 
 ![JSSF 2014]({{ site.baseurl }}/images/jssfpresenting.jpg)  
 <div style="text-align:center;">
     <em>A light hearted sharing session of my project with other JSSF participants.</em>
 </div>    
+<br>
 
 ----
 ****  
