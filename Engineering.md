@@ -117,7 +117,7 @@ Following that, we went on to submit our projects to the Singapore Science and E
 
 ![SSEF 2013]({{ site.baseurl }}/images/ssef2013me.jpg)  
 <div style="text-align:center;">
-    <em>Me, showing my good side. Photo: <a href="https://eternalzphoenixphotography.wordpress.com/">Eternalzphoenix Photography</a></em>
+    <em>Me, showing my good side. Photo: <a href="https://eternalzphoenixphotography.wordpress.com/">EternalzPhoenix Photography</a></em>
 </div>    
 <br>
 
