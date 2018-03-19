@@ -13,35 +13,48 @@ Back in 2012, I had the opportunity to joined the YDSP World of Science Aerodyna
 <div style="text-align:center;">
     <img src="/images/class.jpg" alt="Class Photo" style="display:block;margin:0 auto"/>
     <em>Class Photo at SYFC.</em>
-</div> 
+</div>  
 
-![Flying]({{ site.baseurl }}/images/flightexp.jpg)  
-_Sitting in a Diamond DA40, waiting to takeoff._  
+<div style="text-align:center;">
+    <img src="/images/flightexp.jpg" alt="Flying" style="display:block;margin:0 auto"/>
+    <em>Sitting in a Diamond DA40, waiting to takeoff.</em>
+</div>   
 
 Near the end of the course, we were asked if anyone would be interested in doing a research project under the Research@YDSP programme with DSO, and I jumped at the chance. Together with 3 other group members, we embarked on this journey where we researched on constructing the most optimal glider with collapsible wings.  
 
 Our very first glider was a simple one, to understand how gliders work. This was our very first glider:  
 
-![First Glider]({{ site.baseurl }}/images/firstglider.jpg)  
-_The first of many to come._  
+
+<div style="text-align:center;">
+    <img src="/images/firstglider.jpg" alt="First Glider" style="display:block;margin:0 auto"/>
+    <em>The first of many to come.</em>
+</div>   
 
 The key thing in this project was the design of the closing/opening mechanism. We drew inspiration from a very common item found in most homes: Windows. Most of us had windows that can be opened or closed, and we decided to emulate its hinge design:  
 
-<img src="/images/window.png" alt="Hinge" style="display:block;margin:0 auto;">
-_A typical window hinge._  
+<div style="text-align:center;">
+    <img src="/images/window.png" alt="Hinge" style="display:block;margin:0 auto;">
+    <em>A typical window hinge.</em>  
+</div>
 
 We moved on from there to our first prototype with deployable wings. You can see the carbon fibre rods that formed the skeleton of our hinge mechanism here:  
 
-![Glider Folded]({{ site.baseurl }}/images/glider folded.jpg)  
-_First Protoype, wings folded._  
+<div style="text-align:center;">
+    <img src="/images/glider folded.jpg" alt="Glider Folded" style="display:block;margin:0 auto;">
+    <em>First Protoype, wings folded.</em>  
+</div>
 
-![First Glider]({{ site.baseurl }}/images/gliderdeployed.jpg)  
-_First Protoype, wings deployed._  
+<div style="text-align:center;">
+    <img src="/images/gliderdeployed.jpg" alt="Glider Deployed" style="display:block;margin:0 auto;">
+    <em>First Protoype, wings deployed.</em>  
+</div>
 
 There was several setbacks initially, especially when our plane broke:  
 
 <img src="/images/broke.gif" alt="Crash Landing" style="display:block;margin:0 auto;">
-_Ouch._  
+<div style="text-align:center;">
+    <em>Ouch.</em> 
+</div>
 
 ![Broken Wing]({{ site.baseurl }}/images/broke.jpg)  
 _Back to the workshop..._  
