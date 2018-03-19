@@ -34,7 +34,7 @@ permalink: /computing/
 ****
 <a id="gc"></a>
 ## Then I got myself a Graphing Calculator 
-I promptly realised that it doubled as a portable programming machine. I spent half my bus rides hunched over my GC, coding on the small screen: physics functions, math utilities, even text based games.
+I promptly realised that it doubled as a portable programming machine. I spent half my bus rides hunched over my GC, coding on the small screen: physics functions, math utilities, even text-based games.
 
 ![Hello World]({{ site.baseurl }}/images/gc.gif)
 <div style="text-align:center;">
@@ -53,7 +53,7 @@ I also went on to learn the basics of Python on my own accord, in an attempt to 
 ----
 ****  
 <a id="3d"></a>
-## 3D Modeling my research project 
+## 3D Modelling my research project 
 As part of my research work, I also picked up 3D modelling on Solidworks. Find out more about my project [here]({{ site.baseurl }}/engineering).
 
 ![wingplate]({{ site.baseurl }}/images/Wingplate.JPG)  
@@ -72,7 +72,7 @@ As part of my research work, I also picked up 3D modelling on Solidworks. Find o
 ****  
 <a id="yrs"></a>
 ## Young Rewired State @ Google Singapore 
-In 2014, I joined a team to participate in the Young Rewired State Hackathon, held at Google Singapore, as a designer. Though not part of the programming team, it was still an eye opening experience for me, especially after we [clinched the Best Use of Code award.](https://web.archive.org/web/20150922162216/http://hacks.youngrewiredstate.org/events/yrssingapore) The project, a brainchild of ours, was to let people add and search for events near them, with the results displayed directly on a map. The project is still live [here.](http://sup-sg.appspot.com/) 
+In 2014, I joined a team to participate in the Young Rewired State Hackathon, held at Google Singapore, as a designer. Though not part of the programming team, it was still an eye-opening experience for me, especially after we [clinched the Best Use of Code award.](https://web.archive.org/web/20150922162216/http://hacks.youngrewiredstate.org/events/yrssingapore) The project, a brainchild of ours, was to let people add and search for events near them, with the results displayed directly on a map. The project is still live [here.](http://sup-sg.appspot.com/) 
 
 <img src="/images/google.jpg" alt="Google" style="display:block;margin:0 auto;">  
 <div style="text-align:center;">
@@ -84,7 +84,7 @@ In 2014, I joined a team to participate in the Young Rewired State Hackathon, he
 ****  
 <a id="work"></a>
 ## Enlistment, and then signing on in the Signals formation 
-After enlisting, my passion drove me to continue down this path in the Signals formation, as an Army regular. I was trained in CCNA 1, Routing and Switching, and in the course of my work, has also set up and run various complex networks consisting of several servers with a sizable amount of clients. I went on to join my formation’s push for cyber defence, and was sent for a multitude of courses to attain the necessary skills, of which include:
+After enlisting, my passion drove me to continue down this path in the Signals formation, as an Army regular. I was trained in CCNA 1, Routing and Switching, and in the course of my work, has also set up and run various complex networks consisting of several servers with a sizable number of clients. I went on to join my formation’s push for cyber defence, and was sent for a multitude of courses to attain the necessary skills, of which include:
 
 * Certified Ethical Hacking
 * Computer Hacking Forensics Investigator 
@@ -105,4 +105,4 @@ Such attacks kept us constantly on our toes, and I learnt a great deal out of it
 **** 
 
 ## Future Thoughts
-The field of Information Systems is truly fascinating, and I wish to have the chance to further my passion in this. My strong passion has led me on my knowledge pursuit, and in the future I wish to specialise in Cyber Security.
+The field of Information Systems is truly fascinating, and I wish to have the chance to further my passion in this. My strong passion has led me on my knowledge pursuit, and in the future, I wish to specialise in Cyber Security.
