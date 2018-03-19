@@ -8,7 +8,7 @@ permalink: /engineering/
 <br>
 
 ### What started it all  
-Back in 2012, I had the opportunity to joined the YDSP World of Science Aerodynamics programme. It was a course spread over several months, held at NUS Engineering Faculty. The course culminated with a visit and flight experience at Singapore Youth Flying Club, and I certainly enjoyed my time then!  
+Back in 2012, I had the opportunity to join the YDSP World of Science Aerodynamics program. It was a course spread over several months, held at NUS Engineering Faculty. The course culminated with a visit and flight experience at Singapore Youth Flying Club, and I certainly enjoyed my time then!  
 
 <div style="text-align:center;">
     <img src="/images/class.jpg" alt="Class Photo" style="display:block;margin:0 auto"/>
@@ -18,7 +18,7 @@ Back in 2012, I had the opportunity to joined the YDSP World of Science Aerodyna
 
 <div style="text-align:center;">
     <img src="/images/flightexp.jpg" alt="Flying" style="display:block;margin:0 auto"/>
-    <em>Sitting in a Diamond DA40, waiting to takeoff.</em>
+    <em>Sitting in a Diamond DA40, waiting to take off.</em>
 </div>   
 <br>
 
@@ -45,18 +45,18 @@ We moved on from there to our first prototype with deployable wings. You can see
 
 <div style="text-align:center;">
     <img src="/images/glider folded.jpg" alt="Glider Folded" style="display:block;margin:0 auto;">
-    <em>First Protoype, wings folded.</em>  
+    <em>First Prototype, wings folded.</em>  
 </div>  
   <br>
 
     
 <div style="text-align:center;">
     <img src="/images/gliderdeployed.jpg" alt="Glider Deployed" style="display:block;margin:0 auto;">
-    <em>First Protoype, wings deployed.</em>  
+    <em>First Prototype, wings deployed.</em>  
 </div>  
 <br>
 
-There was several setbacks initially, especially when our plane broke:  
+There were several setbacks initially, especially when our plane broke:  
 
 <img src="/images/broke.gif" alt="Crash Landing" style="display:block;margin:0 auto;">
 <div style="text-align:center;">
@@ -153,13 +153,13 @@ I then started with some 3D modelling. Initially, I tried out Wings 3D.
 </div>    
 <br>
 
-The new model had a new hinge design, a pair of aluminium plates to guide the wings to fold back. The previous design was simply too fragile, and unable to handle the stress from rough landings. The new design also allows for the wings to be completely folded, parallel to the fuselage.  
+The new model had a new hinge design, a pair of aluminum plates to guide the wings to fold back. The previous design was simply too fragile, and unable to handle the stress from rough landings. The new design also allows for the wings to be completely folded, parallel to the fuselage.  
 
 I then moved to work on Solidworks, to further finalise the dimensions of my hinge design.  
 
 ![Solidworks Model]({{ site.baseurl }}/images/Wingplate.JPG)  
 <div style="text-align:center;">
-    <em>Wing plate dimensions, solidworks model.</em>
+    <em>Wing plate dimensions, Solidworks model.</em>
 </div>    
 <br>
 
@@ -199,7 +199,7 @@ Nope, still didn't work, and I broke at least 4 drill bits in this process. Left
 </div>     
 <br>
 
-After the wingplates were delivered, we assembled the plane together. Finally our baby was born!
+After the wingplates were delivered, we assembled the plane together. Finally, our baby was born!
 
 ![Final Prototype Folded]({{ site.baseurl }}/images/finalfolded.jpg)  
 <div style="text-align:center;">
