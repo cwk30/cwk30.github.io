@@ -4,7 +4,7 @@ title: Computing
 permalink: /computing/
 ---
 #### A brief history on my interactions with computers
-
+<br>
 ## The tale of when...
   * [I got a computer stuck in a boot loop](#bootloop)
   * [I got a portable programming machine](#gc)
@@ -15,6 +15,7 @@ permalink: /computing/
   
 ----
 ****  
+<br>
 <a id="bootloop"></a>
 ## It all started... 
 
