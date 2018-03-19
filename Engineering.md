@@ -68,7 +68,7 @@ _Some of those from the original aerodynamics course, at the YDSP congress._
 
 The poster can be viewed [here]({{ site.baseurl }}/images/Research@YDSP_Glider Project Poster.jpg).  
 
-Following that, we went on to submit our projects to the Singapore science and Engineering Fair, and was shortlisted to participate! 
+Following that, we went on to submit our projects to the Singapore Science and Engineering Fair, and was shortlisted to participate! 
 
 ![SSEF 2013]({{ site.baseurl }}/images/ssef2013.jpg)  
 _Presenting our project at our booth._
@@ -100,7 +100,7 @@ The new model had a new hinge design, a pair of aluminium plates to guide the wi
 
 I then moved to work on Solidworks, to further finalise the dimensions of my hinge design.  
 
-![Solidworks Model]({{ site.baseurl }}/images/wingplate.jpg)  
+![Solidworks Model]({{ site.baseurl }}/images/Wingplate.JPG)  
 _Wing plate dimensions, solidworks model._  
 
 ![Solidworks Model]({{ site.baseurl }}/images/solidworks.jpg)  
