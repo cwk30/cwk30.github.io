@@ -58,7 +58,9 @@ As part of my research work, I also picked up 3D modelling on Solidworks. Find o
 
 ![wingplate]({{ site.baseurl }}/images/Wingplate.JPG)  
 <div style="text-align:center;">
-    <em>A component's design and measurements, done on Solidworks._
+    <em>A component's design and measurements, done on Solidworks.</div>    
+<br> 
+ 
 ![wingplate movement]({{ site.baseurl }}/images/wingplate.gif)  
 <div style="text-align:center;">
     <em>A render of swept back wings, done on Solidworks.</em>
