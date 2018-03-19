@@ -6,7 +6,6 @@ permalink: /engineering/
 #### A photo journey of when I built a glider, crashed it, built a RC plane, crashed it too, then took it to Japan.
 
 <br>
-<br>
 
 ### What started it all  
 Back in 2012, I had the opportunity to joined the YDSP World of Science Aerodynamics programme. It was a course spread over several months, held at NUS Engineering Faculty. The course culminated with a visit and flight experience at Singapore Youth Flying Club, and I certainly enjoyed my time then!  
