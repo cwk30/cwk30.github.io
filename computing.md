@@ -86,7 +86,7 @@ In 2014, I joined a team to participate in the Young Rewired State Hackathon, he
 ## Enlistment, and then signing on in the Signals formation 
 After enlisting, my passion drove me to continue down this path in the Signals formation, as an Army regular. In the course of my training, I have attained the following certifications: 
 
-* CCNA Routing and Switching: Introduction to Networks
+* CCNA Routing and Switching: Introduction to Networks, from Cisco
 * Advanced Certificate in Network Operations Management, Monitoring & Maintenance, from WSQ Singapore  
 
 As part of my work, I have set up and run various complex networks, consisting of several servers complete with a sizable number of clients. I later on went on to join my formation’s push for cyber defence, and was sent for a multitude of courses to attain the necessary skills, of which include:
@@ -95,7 +95,7 @@ As part of my work, I have set up and run various complex networks, consisting o
 * Computer Hacking Forensics Investigator 
 * Cyber Security Analyst 
 * Cyber Security Incident Responder
-* Cyber Security Operations Specialist.  
+* Cyber Security Operations Specialist  
 
 The last was my favourite; the final practical examination had us fending of live attacks in a virtualized network environment.
 One of the attacks were as follows:  
