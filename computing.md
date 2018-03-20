@@ -84,9 +84,14 @@ In 2014, I joined a team to participate in the Young Rewired State Hackathon, he
 ****  
 <a id="work"></a>
 ## Enlistment, and then signing on in the Signals formation 
-After enlisting, my passion drove me to continue down this path in the Signals formation, as an Army regular. I was trained in CCNA 1, Routing and Switching, and in the course of my work, has also set up and run various complex networks consisting of several servers with a sizable number of clients. I went on to join my formation’s push for cyber defence, and was sent for a multitude of courses to attain the necessary skills, of which include:
+After enlisting, my passion drove me to continue down this path in the Signals formation, as an Army regular. In the course of my training, I have attained the following certifications: 
 
-* Certified Ethical Hacking
+* CCNA Routing and Switching: Introduction to Networks
+* Advanced Certificate in Network Operations Management, Monitoring & Maintenance, from WSQ Singapore  
+
+As part of my work, I have set up and run various complex networks, consisting of several servers complete with a sizable number of clients. I later on went on to join my formation’s push for cyber defence, and was sent for a multitude of courses to attain the necessary skills, of which include:
+
+* Certified Ethical Hacker
 * Computer Hacking Forensics Investigator 
 * Cyber Security Analyst 
 * Cyber Security Incident Responder
